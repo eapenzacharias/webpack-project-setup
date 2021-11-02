@@ -37,8 +37,8 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/eapenzacharias)
-- Twitter: [@twitterhandle](https://twitter.com/eapenzac)
+- GitHub: [@eapenzacharias](https://github.com/eapenzacharias)
+- Twitter: [@eapenzac](https://twitter.com/eapenzac)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/eapenzac)
 
 ## 🤝 Contributing
